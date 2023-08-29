@@ -1,16 +1,16 @@
-# **Homework Assignment: Exploring Microsoft Azure**
+# Homework Assignment: Exploring Microsoft Azure
 
-## **Storage** 
+## Storage 
 ### Service 1
 
 ### Service 2
 
-## **Compute**
+## Compute
 ### Service 1
 
 ### Service 2
 
-## **Database**
+## Database
 ### Service 1
 
 ### Service 2
