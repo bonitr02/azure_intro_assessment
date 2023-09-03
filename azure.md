@@ -18,21 +18,21 @@
 • Using the Azure Virtual Desktop, you are able to gain access to Windows-only tools if you are working on a mac. In addition, you are able to set up multiple virtual Desktops, that you can dedicate to unique Python projects without using your own computer.
 ### Azure App Services
 
-•A fully managed HTTP-based platform as a service used for hosting web applications, APIs and mobile back-ends
+• A fully managed HTTP-based platform as a service used for hosting web applications, APIs and mobile back-ends
 
-•With Azure App Services, you can program in multiple languages (including Python), utilize integrated tools such as Visual Studio Code and Java Tools, and run code snippets without a server. These are all useful tools when programming with Python to simplify the programming experience.
+• With Azure App Services, you can program in multiple languages (including Python), utilize integrated tools such as Visual Studio Code and Java Tools, and run code snippets without a server. These are all useful tools when programming with Python to simplify the programming experience.
 ## Database
 ### Azure SQL Edge
 
-•An optimized relational database engine with built in machine learning and artificial intelligence abilities, data streaming capabilities, meant for IoT devices
+• An optimized relational database engine with built in machine learning and artificial intelligence abilities, data streaming capabilities, meant for IoT devices
 
-•Azure SQL Edge supports data streaming, time-series and provides built in ML capabilities to analyze data from the application coded in Python. Python is used to program IoT devices, so these features would be useful.
+• Azure SQL Edge supports data streaming, time-series and provides built in ML capabilities to analyze data from the application coded in Python. Python is used to program IoT devices, so these features would be useful.
 
 ### Azure Cosmos DB
 
 • A fully managed, globally distributed, noSQL and relational database offering high speed, open-source APIs and SDKs for multiple programming languages
 
-•This service offers APIs and SDKs, which are useful in Python programming and application development. The large scalability offered by Azure Cosmos DB is beneficial for any applications that handle large amounts of data.
+• This service offers APIs and SDKs, which are useful in Python programming and application development. The large scalability offered by Azure Cosmos DB is beneficial for any applications that handle large amounts of data.
 
 ## References
 
